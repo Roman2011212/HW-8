@@ -1,0 +1,33 @@
+h3:nth-child(1) {
+  color: pink;
+}
+p:nth-child(3) {
+  color: gray;
+}
+.text-red {
+  color: red;
+}
+p:nth-child(8) {
+  color: yellow;
+}
+p:nth-child(7) {
+  color: green;
+}
+ul {
+  text-decoration: none;
+}
+.sheduld h2:first-child {
+  color: rgb(225, 0, 255);
+}
+.sheduld ul:nth-child(even) {
+  background-color: rgb(255, 170, 255);
+}
+.sheduld h2:nth-child(odd) {
+  font-style: italic;
+}
+.sheduld a:visited {
+  color: rgb(141, 0, 106);
+}
+.sheduld li:hover {
+  background-color: rgb(30, 210, 156);
+}
