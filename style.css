@@ -4,7 +4,7 @@ h3:nth-child(1) {
 p:nth-child(3) {
   color: gray;
 }
-.text-red {
+p:nth-child(1) {
   color: red;
 }
 p:nth-child(8) {
